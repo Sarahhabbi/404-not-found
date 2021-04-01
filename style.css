@@ -1,4 +1,4 @@
-@font-face{
+/* @font-face{
     font-family: "SpaceMono";
     src: url("SpaceMono-Regular.ttf");
 }
@@ -8,8 +8,8 @@
 }
 @font-face{
     font-family:"Montserrat";
-    src: url("Montserrat-Regular.ttf");
-}
+    src: url("Montserrat-Regular.ttf"); */
+/* } */
 
 html{
     all:none;
@@ -18,7 +18,7 @@ body{
     all:none;
 }
 h3{
-    font-family: "SpaceMono";
+    font-family: "Space Mono";
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -35,7 +35,7 @@ img{
     margin-left: 77px;
 }
 button{
-    font-family: "SpaceMono";
+    font-family: "Space Mono";
     font-size: 14px;
     font-style: normal;
     line-height: 21px;
@@ -62,7 +62,8 @@ footer{
     margin-bottom:24px;
     display: flex;
     justify-content:center;
-    margin-top:326px;
+    margin-top:70px;
+    margin-bottom:5px;
 }
 b{
     text-decoration: underline;
@@ -89,7 +90,7 @@ b{
 #title2{
     height: 190px;
     width: 586px;
-    font-family:"SpaceMono";
+    font-family:"Space Mono";
     font-size: 64px;
     font-style: normal;
     line-height: 95px;
@@ -109,7 +110,7 @@ b{
 #row{
     display: flex;
     justify-content: row;
-    margin-top:200px;
+    margin-top:150px;
 }
 
 /*for mobile*/
