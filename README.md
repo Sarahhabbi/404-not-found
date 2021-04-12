@@ -66,4 +66,4 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 ## Contact
 
 - GitHub [@Sarahhabbi](https://github.com/Sarahhabbi)
-- Linkedin [Sarah Habbi](www.linkedin.com/in/sarah-habbi-1a2ba81a4/)
+- Linkedin [Sarah Habbi](https://www.linkedin.com/in/sarah-habbi-1a2ba81a4/)
