@@ -40,10 +40,8 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- See the demo : [Demo](https://angry-curie-61d061.netlify.app/)
+- That's my first challenge of the Responsive Web Developper module. I really enjoyed building this landing page and find the best way to make it responsive with the knowledge I have with CSS and HTML, I am looking forward to improve my skill with others challenges :). I also enjoyed using Figma for the design inspiration. 
 
 ### Built With
 
