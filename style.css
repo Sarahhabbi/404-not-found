@@ -147,3 +147,9 @@ b{
         margin-left:44px;
     }
 }
+
+
+.call a{
+    all:unset;
+    margin: 0 auto;
+}
